@@ -1,3 +1,4 @@
+@import 'variables';
 
 .text-white{
   color: white;
@@ -13,4 +14,20 @@
 
 .text-bolder{
   font-weight: bolder;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.text-left{
+  text-align: left;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.text-color-secondary{
+  color: $secondary-color;
 }
